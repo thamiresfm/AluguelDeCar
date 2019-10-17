@@ -1,0 +1,11 @@
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.deps.json
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.runtimeconfig.json
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.dll
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\bin\Debug\netcoreapp2.1\ProjetoLocacao.pdb
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.AssemblyInfo.cs
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.dll
+C:\Users\TI\Desktop\Thamires\Desafios\DesafioaluguelDoCarro\ProjetoLocacao\ProjetoLocacao\obj\Debug\netcoreapp2.1\ProjetoLocacao.pdb
